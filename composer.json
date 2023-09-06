@@ -1,0 +1,15 @@
+{
+    "name": "khadija/cv_maker_php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khadija-Banu",
+            "email": "sweetytanha63@gmail.com"
+        }
+    ],
+    "require": {}
+}
